@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5C083EAA-B953-AB03-FE35-832EC14680C7}") = "iTweenTest - Kopi - new - Kopi", "Assembly-CSharp-firstpass.csproj", "{99F18DD9-E020-69BD-5852-9A67EA711ADC}"
+EndProject
+Project("{5C083EAA-B953-AB03-FE35-832EC14680C7}") = "iTweenTest - Kopi - new - Kopi", "Assembly-CSharp.csproj", "{695CAAB2-E15E-D157-9723-19B2828D5AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F18DD9-E020-69BD-5852-9A67EA711ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F18DD9-E020-69BD-5852-9A67EA711ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F18DD9-E020-69BD-5852-9A67EA711ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F18DD9-E020-69BD-5852-9A67EA711ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695CAAB2-E15E-D157-9723-19B2828D5AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695CAAB2-E15E-D157-9723-19B2828D5AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695CAAB2-E15E-D157-9723-19B2828D5AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695CAAB2-E15E-D157-9723-19B2828D5AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

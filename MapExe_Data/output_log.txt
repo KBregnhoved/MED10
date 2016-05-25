@@ -1,0 +1,426 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     880 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Katharina\Desktop\iTweenTest - Kopi - new - Kopi\MapExe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Katharina\Desktop\iTweenTest - Kopi - new - Kopi\MapExe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Katharina\Desktop\iTweenTest - Kopi - new - Kopi\MapExe_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Katharina\Desktop\iTweenTest - Kopi - new - Kopi\MapExe_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Katharina\Desktop\iTweenTest - Kopi - new - Kopi\MapExe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Katharina\Desktop\iTweenTest - Kopi - new - Kopi\MapExe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Katharina\Desktop\iTweenTest - Kopi - new - Kopi\MapExe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Katharina\Desktop\iTweenTest - Kopi - new - Kopi\MapExe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Katharina\Desktop\iTweenTest - Kopi - new - Kopi\MapExe_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Katharina\Desktop\iTweenTest - Kopi - new - Kopi\MapExe_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  1.090 seconds
+Platform assembly: C:\Users\Katharina\Desktop\iTweenTest - Kopi - new - Kopi\MapExe_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Katharina\Desktop\iTweenTest - Kopi - new - Kopi\MapExe_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.993728 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 148c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.337317 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 458.
+Total: 0.962493 ms (FindLiveObjects: 0.100845 ms CreateObjectMapping: 0.079873 ms MarkObjects: 0.692085 ms  DeleteObjects: 0.088351 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 28.508905 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.662188 ms (FindLiveObjects: 0.067379 ms CreateObjectMapping: 0.050868 ms MarkObjects: 0.526091 ms  DeleteObjects: 0.016956 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+path Point 8 reached
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+path Point 1 reached
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+path Point 5 reached
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+path Point 6 reached
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.302463 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.800069 ms (FindLiveObjects: 0.078534 ms CreateObjectMapping: 0.059347 ms MarkObjects: 0.639431 ms  DeleteObjects: 0.020079 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.869137 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.712164 ms (FindLiveObjects: 0.075410 ms CreateObjectMapping: 0.054438 ms MarkObjects: 0.562235 ms  DeleteObjects: 0.017848 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.215873 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.717073 ms (FindLiveObjects: 0.084781 ms CreateObjectMapping: 0.053992 ms MarkObjects: 0.559558 ms  DeleteObjects: 0.017848 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.742857 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.721089 ms (FindLiveObjects: 0.072733 ms CreateObjectMapping: 0.053992 ms MarkObjects: 0.574729 ms  DeleteObjects: 0.018294 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.373883 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 1.125363 ms (FindLiveObjects: 0.118694 ms CreateObjectMapping: 0.076749 ms MarkObjects: 0.897345 ms  DeleteObjects: 0.029004 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.435485 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.963832 ms (FindLiveObjects: 0.180272 ms CreateObjectMapping: 0.068271 ms MarkObjects: 0.690746 ms  DeleteObjects: 0.020526 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.155235 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.880835 ms (FindLiveObjects: 0.116016 ms CreateObjectMapping: 0.054438 ms MarkObjects: 0.684053 ms  DeleteObjects: 0.024542 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.695184 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 1.166415 ms (FindLiveObjects: 0.171794 ms CreateObjectMapping: 0.078534 ms MarkObjects: 0.889313 ms  DeleteObjects: 0.023649 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.181514 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.743400 ms (FindLiveObjects: 0.078980 ms CreateObjectMapping: 0.051315 ms MarkObjects: 0.593470 ms  DeleteObjects: 0.018294 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.922285 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.842906 ms (FindLiveObjects: 0.077642 ms CreateObjectMapping: 0.074964 ms MarkObjects: 0.667543 ms  DeleteObjects: 0.020526 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.085625 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.850046 ms (FindLiveObjects: 0.078980 ms CreateObjectMapping: 0.058900 ms MarkObjects: 0.689853 ms  DeleteObjects: 0.019633 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+path Point 8 reached
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.331914 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 1.579167 ms (FindLiveObjects: 0.148590 ms CreateObjectMapping: 0.077195 ms MarkObjects: 1.310990 ms  DeleteObjects: 0.038821 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.656267 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.795161 ms (FindLiveObjects: 0.076749 ms CreateObjectMapping: 0.053546 ms MarkObjects: 0.644785 ms  DeleteObjects: 0.019187 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.379659 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.841122 ms (FindLiveObjects: 0.074072 ms CreateObjectMapping: 0.054884 ms MarkObjects: 0.690746 ms  DeleteObjects: 0.019187 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.538537 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.842014 ms (FindLiveObjects: 0.079873 ms CreateObjectMapping: 0.055331 ms MarkObjects: 0.685838 ms  DeleteObjects: 0.018741 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.668363 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.803193 ms (FindLiveObjects: 0.082104 ms CreateObjectMapping: 0.058008 ms MarkObjects: 0.641662 ms  DeleteObjects: 0.020079 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.140040 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.817472 ms (FindLiveObjects: 0.078980 ms CreateObjectMapping: 0.058454 ms MarkObjects: 0.659064 ms  DeleteObjects: 0.020079 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.591613 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 1.052183 ms (FindLiveObjects: 0.101737 ms CreateObjectMapping: 0.056223 ms MarkObjects: 0.871464 ms  DeleteObjects: 0.020972 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.447955 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 460.
+Total: 0.869233 ms (FindLiveObjects: 0.195443 ms CreateObjectMapping: 0.076749 ms MarkObjects: 0.575622 ms  DeleteObjects: 0.017402 ms)
+
+UDPSend.init()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Sending to 127.0.0.1 : 6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Test-Sending to this Port: nc -u 127.0.0.1  6100
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
